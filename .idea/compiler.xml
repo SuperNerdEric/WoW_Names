@@ -11,8 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Words" target="1.5" />
-      <module name="WoW Names" target="1.5" />
+      <module name="WoW Names" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
